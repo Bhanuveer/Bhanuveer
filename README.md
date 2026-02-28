@@ -2,8 +2,6 @@
 
 **AI & Machine Learning Engineer || Ex-Robotics Engineer || Computer Vision & LLM Systems**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-
 🔭 I’m currently working on real-time Computer Vision & LLM-based AI systems<br><br>👯 I’m looking to collaborate on AI/ML research, Robotics + Vision projects, and scalable AI applications<br><br>🤝 I’m looking for help with MLOps, cloud deployment (AWS), and advanced LLM fine-tuning<br><br>🌱 I’m currently learning Advanced Deep Learning, RAG systems, and scalable AI deployment<br><br>💬 Ask me about Computer Vision, Robotics-AI integration, ML deployment, and FastAPI-based AI systems<br><br>⚡ Fun fact: I bridge the gap between AI software and real-world hardware systems.
 
 
