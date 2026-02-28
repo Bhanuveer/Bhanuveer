@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+💫 Hi 👋, I'm Bhanuveer Singh
 
 **AI & Machine Learning Engineer || Ex-Robotics Engineer || Computer Vision & LLM Systems**
 
